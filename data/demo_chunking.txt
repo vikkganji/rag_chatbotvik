@@ -1,0 +1,1 @@
+Good chunking improves retrieval precision. Keep chunks coherent by headings and add small overlaps.

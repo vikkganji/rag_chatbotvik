@@ -1,0 +1,1 @@
+RAG stands for Retrieval-Augmented Generation. It retrieves relevant chunks and augments the prompt so the model can answer grounded in evidence.

@@ -1,0 +1,1 @@
+To reduce hallucinations in RAG, improve retrieval (hybrid search, reranking), use strict prompts, and allow 'I don't know'.
